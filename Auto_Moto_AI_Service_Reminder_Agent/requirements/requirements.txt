@@ -1,0 +1,8 @@
+pandas
+numpy
+scikit-learn
+textblob
+joblib
+streamlit
+fastapi          # if using FastAPI backend for API endpoints
+uvicorn          # for testing FastAPI locally
