@@ -3,7 +3,7 @@ import pandas as pd
 from AI_Agent_Service_Reminder import AutoMotoAIServiceReminder
 from utils.AI_Agent_Service_Reminder import AutoMotoAIServiceReminder
 
-st.title("AutoMoto AI Service Reminder")
+st.title("AI_Agent_Service_Reminder")
 
 uploaded_file = st.file_uploader("Upload your customer CSV data", type=["csv"])
 if uploaded_file:
